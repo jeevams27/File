@@ -20,8 +20,8 @@ File has been created and written with student details.
 ## Program:
 
 ```
-Developed By: Manoj Kumar S
-Reg No: 212221230056
+Developed By: Jeeva MS
+Reg No: 212221230040
 ```
 ```c#
 using System;
@@ -74,6 +74,7 @@ class HelloWorld
 }
 ```
 ## Output:
-![Alt text](image.png)
+![Uploading image.png…]()
+
 ## Result:
 Thus a C# program to store the student details in file using structure concept is implemented successfully.
